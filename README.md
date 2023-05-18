@@ -24,6 +24,9 @@ To get started with the Microsoft Website Clone Tutorial, follow these steps:
 3. Start a local development server or open the `index.html` file directly in your browser.
 4. Follow the tutorial instructions provided in the project files to create the Microsoft website clone.
 
+## Demo
+Here is a demo of the Microsoft Clone . You can try it out by following this link - https://microsoft-clone-tutorial.netlify.app/
+
 ## Technologies Used
 
 The tutorial utilizes the following technologies:
